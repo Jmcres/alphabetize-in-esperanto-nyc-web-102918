@@ -4,3 +4,5 @@ def alphabetize(arr)
    word.split(" ").collect do |letter|
      ESPERANTO_ALPHABET.index(letter)
 end
+end 
+end
